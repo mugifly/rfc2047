@@ -3,6 +3,7 @@
   "version": "2.0.1",
   "description": "Encode and decode rfc2047 (MIME encoded words)",
   "main": "lib/rfc2047.js",
+  "types": "lib/rfc2047.d.ts",
   "directories": {
     "test": "test"
   },
